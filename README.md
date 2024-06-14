@@ -16,7 +16,7 @@ Account Operations:
   -PIN Verification: Ensures secure access to account operations by verifying a 4-digit PIN.
   -Account Lock: Locks the account for the day after two incorrect PIN attempts.
 
-#_**Program Flow**-
+#_**Program Flow**_-
 1. The program starts by displaying a welcome message and prompts the user to select their bank.
 
 2. Based on the bank selection, the user is greeted and given options to either withdraw money or check their account balance.
