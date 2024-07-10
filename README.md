@@ -1,6 +1,8 @@
 # ATM-Machine
 #ATM Simulation Program
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&random=false&width=435&lines=Aaditya+Goyal)](https://git.io/typing-svg)
+
 #_**Overview**_
 This repository contains a simple ATM simulation program written in C. The program allows users to perform basic banking operations such as checking account balance and withdrawing money from their bank accounts. The simulation supports multiple banks, each with predefined account balances and PIN codes.
 
